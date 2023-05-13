@@ -10,7 +10,7 @@ UG pads (VCCUG and DI DO UG) are for Underglow lighting. This is also PER KEY RG
 
 IF testing proves I need decoupling capacitors I'll try and fit them, but it'll be likely that the underglow rgbs will have to be removed for tracing fitment.
 
-Diodes are 1N4007WS, in a Col2Row arrangement. (negative to R pad, positive to switch pad). 
+Diodes are 1N4007WS (sod-323 package size), in a Col2Row arrangement. (negative to R pad, positive to switch pad). 
 
 EC-11 pcbs; 
 These will be updated but should work currently. 
