@@ -16,3 +16,11 @@ EC-11 pcbs;
 These will be updated but should work currently. 
 
 I'll have all of these on order in small quantities to text and make revisions. USE AT YOUR OWN RISK!
+
+
+Roadmap:
+
+Test and revisions
+Kailh mouse wheel encoder support (with cutout in center for wheel size support) https://www.kailhswitch.com/mouse-encoder/
+maybe swith UG leds to SK6812-EC20 
+Hotswap more things?
