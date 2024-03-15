@@ -17,6 +17,7 @@ These will be updated but should work currently.
 
 I'll have all of these on order in small quantities to text and make revisions. USE AT YOUR OWN RISK!
 
+NEW: micro Skree! For the tinest square single key hotswap MX with led possible! Sure it could be alot better, but this was a couple minute project to help a guy out! Should fit Compactyl so no super annoying hand wiring to switch feet!
 
 Roadmap:
 
