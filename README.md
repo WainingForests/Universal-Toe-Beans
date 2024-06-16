@@ -19,9 +19,18 @@ I'll have all of these on order in small quantities to text and make revisions. 
 
 NEW: micro Skree! For the tinest square single key hotswap MX with led possible! Sure it could be alot better, but this was a couple minute project to help a guy out! Should fit Compactyl so no super annoying hand wiring to switch feet!
 
+6/16/2024
+
+Took ages but slowly adding things.
+Added MX Choc Royale a SKPCB that has both hotswap sockets on the same pcb! This solution still provides easy soldering points, RGB, and now support for 0806 diodes along with the standard SOD323 diodes all my other designs use.
+Added Smallest Single Key PCB for MX! This is just a very simple small SKPCB for tight builds.
+Added Roller Encoder SKPCB which has pads for the encoder and a diode for the click. The pcb was designed with specific pads to allow the encoder to 'rotate' onto the pcb preventing the need for pins to be bent while also tightly locking onto the pcb.
+Added EC-12 Hollow shaft with LED. This gives you the option to have RGB lit up rotary encoders! Note, this encoder doesn't have a button. 
+
 Roadmap:
 
 Test and revisions
 Kailh mouse wheel encoder support (with cutout in center for wheel size support) https://www.kailhswitch.com/mouse-encoder/
 maybe swith UG leds to SK6812-EC20 
 Hotswap more things?
+
