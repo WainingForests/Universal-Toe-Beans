@@ -27,6 +27,9 @@ Added Smallest Single Key PCB for MX! This is just a very simple small SKPCB for
 Added Roller Encoder SKPCB which has pads for the encoder and a diode for the click. The pcb was designed with specific pads to allow the encoder to 'rotate' onto the pcb preventing the need for pins to be bent while also tightly locking onto the pcb.
 Added EC-12 Hollow shaft with LED. This gives you the option to have RGB lit up rotary encoders! Note, this encoder doesn't have a button. 
 
+7/18/2024
+With the initial work from Ryanan @ Cosmos I've polished the general design for a twist install SKPCB. Currently only supporting MX. This design is currently untested but on order.
+
 Roadmap:
 
 Test and revisions
